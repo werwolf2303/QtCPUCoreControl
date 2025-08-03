@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=QtCPUCoreControl
+Exec=/opt/QtCPUCoreControl/QtCPUCoreControl
+Icon=cpu
+Comment=Control cpu cores without terminal
+X-GNOME-Autostart-enabled=true

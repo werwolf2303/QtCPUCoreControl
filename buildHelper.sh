@@ -1,0 +1,1 @@
+g++ -o cpu_toggle_helper helper.cpp
